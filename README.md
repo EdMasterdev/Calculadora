@@ -43,9 +43,9 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que combina una 
 ## Capturas de Pantalla
 
 ### Pantalla de Inicio de Sesión
-![Pantalla de Inicio de Sesión](./screenshots/lab1_1.png)
+![Pantalla de Inicio de Sesión](./screenshots/lab2_2.png)
 
 
 ### Pantalla de calculadora
-![Pantalla de calculadora](./screenshots/lab1_2.png)
+![Pantalla de calculadora](./screenshots/lab2_1.png)
 

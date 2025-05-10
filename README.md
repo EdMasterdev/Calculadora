@@ -34,7 +34,7 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que combina una 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>  
+   git clone <https://github.com/EdMasterdev/Calculadora>  
    ```
 2. Abre el proyecto en Android Studio.
 3. Ejecuta la aplicación en un emulador o dispositivo físico.
